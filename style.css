@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2em;
+  background-color: #f0f0f0;
+}
+
+input[type="email"] {
+  padding: 0.5em;
+  font-size: 1em;
+  width: 300px;
+}
+
+button {
+  padding: 0.5em 1em;
+  font-size: 1em;
+  margin-left: 1em;
+}
+
+#resultado {
+  margin-top: 2em;
+  background: white;
+  padding: 1em;
+  border-radius: 8px;
+  display: inline-block;
+}
